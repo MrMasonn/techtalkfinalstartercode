@@ -1,6 +1,8 @@
 // JavaScript File
 // JavaScript File
-$( document ).ready(function() {
-
-
+var input= input;
+var answer= answer;
+$("#bigButton").click(function() {
+    (input === answer)
+    return "Corrret!!!";
 });
